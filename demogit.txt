@@ -1,0 +1,33 @@
+﻿alo ? nghe rõ tr? l?i???????????????????
+d? nghe rõ =))
+:v m c?n a cài cái gì, c? list h?t ra dây
+Vâng. Anh cài giúp em BKAV, MS Visio b?n nào cung oke, v?i n?a là Balsamiq Mockup d? thi?t k? giao di?n ?y ?
+máy m cáy Visio r?i mà nh?
+tru?c em có tìm d? cài mãi mà ko th?y, xong t?i kinh tinh quá gi? máy c? lag lag. Xong hôm dó t?i dc b?n này nhung ch?y c? hay b? l?i ?y ?
+k dùng sql server n?a thì g? nó ra
+em v?n còn dùng d?n dó ?.ok
+có c? mockup r?i kìa :v
+cái dó là mockuplus, cung v? du?c prototype nhung v? x?u vs c? khó nên em d?nh chuy?n sang cái kia
+sao l?i có tencent game ing kia ???
+em cung dang th?c m?c luôn, zalo có dùng k ?
+em v?n dùng dó.
+bây gi? a m kh?i dô?ng l?i máy tính, tý g?i l?i l?i pass ultraview cho a
+file de an m de dau day e
+em để trong ổ D, file BA. nếu sợ mất thì đấy nó lên github
+em gửi gmail cho Nhung cũng dc chứ em chưa có tk
+github là công cụ quản lý source, chưứ mỗi lần làm thêm file vào đề án lại phải gảửi mail à @@
+biết dùng mấy lệnh cơ bản của git k ?
+ko ạ :v
+:V aLO ? 12345 ALO ALO
+alooo
+a m cài xong rô. bây giờ chỉ cho m 1 số lệnh cơ bản của git
+// điêền vào hôộ a cái
+git config --global user.email "thaoctt0809@gmail.com"
+ git config --global user.name "caothuthao"
+cawms sac pin kia
+muoosn push 1 file naof do len git thi chay lan luot cac lenh nay
+//
+git add .
+git commit -m "noi dung nao do"
+git push origin master
+// nhin vi du nhe
