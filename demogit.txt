@@ -39,3 +39,8 @@ sau đó gõ lệnh:
 git clone https://github.com/caothuthao/DeAn2019.git.
 // file này đã được chỉnh sửa, nên sau khi save thì cần push lên git.
 thực hành đi .
+// lúc này, ở trên github đã có file thay đổi. nhưng ở thư mục ba_copy thì chưa.
+// muốn lấy file mới nhất trên git thì dùng cái lệnh này
+git pull origin master
+// bình thường git nó login nhanh lắm, k hiểu sao máy m nó lại chậm.
+sư dụng git cho làm việc nhóm rất là thuận lợi và dễ dàng. nói chung trên đây là 1 số lệnh cơ bản. 1 mình dùng để backup dữ liệu thì cũng đủ rồi.
