@@ -31,3 +31,11 @@ git add .
 git commit -m "noi dung nao do"
 git push origin master
 // nhin vi du nhe
+// chirnh sửa, thêm hoặc xóa file trong cái thư mục bA này, muốn sau k bị mất do virut hay do hỏng hóc thì làm xong cứ push lên git. 
+muốn clone (tải về) thì làm như này:
+thấy cái chữ clone or download có nền xanh, vào coppy link ở đó.
+sau đó vào thư mục mình muốn clone về, chuột phải chọn git bash here, đợi nó login xong rồi ->
+sau đó gõ lệnh:
+git clone https://github.com/caothuthao/DeAn2019.git.
+// file này đã được chỉnh sửa, nên sau khi save thì cần push lên git.
+thực hành đi .
